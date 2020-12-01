@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+h1#principal{
+    text-align: center;
+    color: darkred;
+}
+h1.encabezado{
+    text-align: center;
+    color:darkred;
+}
+
+p.centrado{
+    text-align: center;
+}
+
+p.derecha{
+    text-align: right;
+}
+
+p.parrafo{
+    color: sienna
+}
